@@ -1,4 +1,4 @@
-# labyrinthe
+# Maze
 Maze creation with a solutions finder
 
 Compilation Instructions: 
